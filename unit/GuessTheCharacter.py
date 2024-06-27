@@ -3,11 +3,8 @@ import random
 
 # Список персонажей
 characters = [
-    {"name": "Микки Маус", "image": "mickey_mouse.gif"},
-    {"name": "Дональд Дак", "image": "donald_duck.gif"},
-    {"name": "Минни Маус", "image": "minnie_mouse.gif"},
-    {"name": "Гуфи", "image": "goofy.gif"},
-    {"name": "Чип и Дейл", "image": "chip_and_dale.gif"}
+
+    {"name": "Дональд Дак", "image": "donald_duck.gif"}
 ]
 
 # Инициализация окна игры
